@@ -1,0 +1,32 @@
+
+.i-content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+  }
+
+.g-photo {
+      width: 160px;
+      height: 185px;
+}
+
+.img-1 { 
+    width: 160px;
+    height: 140px;
+    object-fit: contain;
+}
+
+.i-login {
+  --width: 300px;
+  --height: 18em;
+  --max-height: 25em;
+}
+
+.i-reg {
+  --width: 300px;
+  --height: 28em;
+}
+
+.hide {
+  display: none;
+}
